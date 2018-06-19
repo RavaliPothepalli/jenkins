@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hai
 ravali
+=======
+ready
+ravali
+commit
+>>>>>>> 76d21e50bef4bc9b4a69a57944c409866e78c7ce
